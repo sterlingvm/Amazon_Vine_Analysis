@@ -21,37 +21,37 @@ Our Amazon reviews (and associated data) were centered on US reviews for video g
 ## Results
 ### Total number of reviews
 - Vine reviews <p align="center">
-    ![Total Vine Reviews](Resources/Images/v_r.png?raw=true "Total Vine Reviews")
+    ![Total Vine Reviews](https://github.com/sterlingvm/Amazon_Vine_Analysis/blob/main/Resources/v_r.png?raw=true "Total Vine Reviews")
 </p>
 
 <br>
 
 - Non-Vine reviews <p align="center">
-    ![Total non-Vine Reviews](Resources/Images/n_v_r.png?raw=true "Total non-Vine Reviews")
+    ![Total non-Vine Reviews](https://github.com/sterlingvm/Amazon_Vine_Analysis/blob/main/Resources/n_v_r.png?raw=true "Total non-Vine Reviews")
 </p>
 <br>
 
 ### Total number of 5-star reviews
 - Vine reviews <p align="center">
-    ![5-star Vine Reviews](Resources/Images/5_v_r.png?raw=true "5-star Vine Reviews")
+    ![5-star Vine Reviews](https://github.com/sterlingvm/Amazon_Vine_Analysis/blob/main/Resources/5_v_r.png?raw=true "5-star Vine Reviews")
 </p>
 
 <br>
 
 - Non-Vine reviews <p align="center">
-    ![5-star non-Vine Reviews](Resources/Images/5_n_v_r.png?raw=true "5-star non-Vine Reviews") 
+    ![5-star non-Vine Reviews](https://github.com/sterlingvm/Amazon_Vine_Analysis/blob/main/Resources/5_n_v_r.png?raw=true "5-star non-Vine Reviews") 
 </p>
 <br>
 
 ### Percentage of 5-star reviews
 - Vine reviews <p align="center">
-    ![% of 5-star Vine Reviews](Resources/Images/p_5_v_r.png?raw=true "% of 5-star Vine Reviews") 
+    ![% of 5-star Vine Reviews](https://github.com/sterlingvm/Amazon_Vine_Analysis/blob/main/Resources/p_5_v_r.png?raw=true "% of 5-star Vine Reviews") 
 </p>
 
 <br>
 
 - Non-Vine reviews <p align="center">
-    ![% of 5-star Vine Reviews](Resources/Images/p_5_n_v_r.png?raw=true "% of 5-star Vine Reviews") 
+    ![% of 5-star Vine Reviews](https://github.com/sterlingvm/Amazon_Vine_Analysis/blob/main/Resources/p_5_n_v_r.png?raw=true "% of 5-star Vine Reviews") 
 </p>
 <br>
 
