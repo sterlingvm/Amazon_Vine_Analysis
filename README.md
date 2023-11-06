@@ -3,13 +3,13 @@
 ## Analysis Overview
 In this project, we extract, transform, and load data on Amazon reviews for video games with reference to their specialty reviewers program: "Vine"
 
-We want to evaluate if there is a bias in review scores based on if reviews came from the Vine program or from regular product reviews independent of the Vine Program. Of course, the evaluation is considering the fact that Vine Program reviewers are paid for their reviews, time, and service in the program.
+We want to evaluate if there is a bias in review scores based on whether reviews came from the Vine program or from regular product reviews independent of the Vine Program. Of course, the evaluation is considering the fact that Vine Program reviewers are paid for their reviews, time, and service in the program.
 
-This analysis leverages Google Colaboratory for cloud based ETL and computation.
+This analysis leverages Google Colaboratory for cloud-based ETL and computation.
 We utilize PySpark to perform the ETL process:
     - We extract the dataset from the AWS Database (or bucket if needed), We connect to the AWS RDS instance that houses the Amazon review data.
     - We transform the data into tables that fit into previously developed SQL database structures for easy integration, loading, and manipulation 
-    - We load the transformed data into the pgAdmin / Postgres database tables and can then manipulate and aanalyze the data by using SQL queries.
+    - We load the transformed data into the pgAdmin / Postgres database tables and can then manipulate and analyze the data by using SQL queries.
     - Note that in this project, we opt to manipulate the data & analyze, and calculate the data and desired metrics via DataFrames in PySpark rather than SQL queries in pgAdmin or using DataFrames in Pandas.
 
 Our Amazon reviews (and associated data) were centered on US reviews for video games.
